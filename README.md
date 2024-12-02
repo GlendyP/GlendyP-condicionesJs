@@ -1,0 +1,1 @@
+# GlendyP-condicionesJs
